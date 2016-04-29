@@ -5,6 +5,8 @@
 
 In this project you will build a small app to function as a calculator. This app  will be built in Java, and will use the topics and techniques discussed during the week.
 
+You should work on this project in your own repository. Click the `fork` button in the top right corner to create a copy of this repository on your github account. You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
+
 
 ## Requirements
 
@@ -81,3 +83,7 @@ The following functions should take the displayed value (x) and updated it accor
 - `inverseCosine()`: sin<sup>-1</sup>(x)
 - `inverseTangent()`: tan<sup>-1</sup>(x)
 - `factorial()`: x! (x factorial)
+
+## Submission
+
+Completed projects should be submitted by submitting a pull request against the [original repository](https://github.com/Zipcoder/project-1-calculator). All work should be done in your own repository.
