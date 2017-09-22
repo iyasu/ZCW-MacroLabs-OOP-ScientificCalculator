@@ -18,7 +18,7 @@ All features must be tested. Tests must include normal behavior, and any possibl
 
 You must produce UML diagrams for your program. All classes (excluding test classes) must be included in the UML class diagrams.
 
-### Core Features
+### Core Features 
 
 All calculators should have the following features:
 
