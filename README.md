@@ -1,4 +1,4 @@
-# Project 1: Calculator
+# Calculator Macro-Lab (Project)
 
 
 ## Description
