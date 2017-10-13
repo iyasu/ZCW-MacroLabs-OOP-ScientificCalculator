@@ -87,3 +87,7 @@ The following functions should take the displayed value (x) and updated it accor
 ## Submission
 
 Completed projects should be submitted by submitting a pull request against the [original repository](https://github.com/Zipcoder/project-1-calculator). All work should be done in your own repository.
+
+
+## Whats next?
+The next lab is located [here](https://github.com/Zipcoder/ZCW-MacroLabs-OOP-ATM).
