@@ -1,4 +1,4 @@
-# Calculator Macro-Lab (Project)
+# ZCW-MacroLabs-OOP-ScientificCalculator
 
 
 ## Description
